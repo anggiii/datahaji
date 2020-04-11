@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"/>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sa_i"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:layout_marginStart="180dp"
+            android:layout_marginTop="20dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/rukunhaji"
+            android:layout_marginStart="20dp"
+            android:textSize="20sp"
+            android:layout_marginTop="50dp"/>
+
+
+        <Button
+            android:id="@+id/albaqarah"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/albaqarah"
+            android:layout_marginStart="95dp"
+            android:layout_marginTop="15dp"
+            android:textSize="12sp"
+            android:background="@drawable/custom1"
+            android:textColor="@color/colorPrimaryDark"/>
+
+            <Button
+                android:id="@+id/hrmuslim"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="103dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/custom2"
+                android:padding="5dp"
+                android:text="@string/hadits"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="12sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:text="@string/hukum_hukum_berkaitan_dengan_sa_i"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="40dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/syariatsai"
+            android:textSize="15sp"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sunnah"
+            android:textSize="15sp"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sunnah2"
+            android:textSize="15sp"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bukit_shafa"
+            android:textSize="15sp"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/tujuh_putaran"
+            android:textSize="15sp"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/setelah_thawaf"
+            android:textSize="15sp"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="10dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="180dp"
+                android:layout_marginTop="20dp"
+                android:text="@string/Cara"
+                android:textSize="20sp" />
+
+
+            <Button
+                android:id="@+id/albaqarah158"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="120dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/custom1"
+                android:text="@string/al_baqarah_158"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="12sp" />
+
+                <Button
+                    android:id="@+id/hr1218"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="115dp"
+                    android:layout_marginTop="15dp"
+                    android:background="@drawable/custom2"
+                    android:layout_marginBottom="50dp"
+                    android:padding="5dp"
+                    android:text="@string/hadits"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:textSize="12sp" />
+
+            </LinearLayout>
+    </ScrollView>
+
+        </LinearLayout>
+

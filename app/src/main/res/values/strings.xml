@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">datahaji</string>
+    <string name="sa_i">Sa\'i</string>
+    <string name="rukunhaji">Merupakan Rukun Haji dan Umroh</string>
+    <string name="albaqarah">Qs. Al-Baqarah : 158</string>
+    <string name="hadits">H.R Muslim 1218</string>
+    <string name="hukum_hukum_berkaitan_dengan_sa_i">Hukum - Hukum berkaitan dengan Sa\'i</string>
+    <string name="syariatsai">1. Tidak disyariatkan sai kecuali umroh dan haji</string>
+    <string name="sunnah">2. Disunnahkan al - Muwaalat antara Sai dan Thawaf</string>
+    <string name="sunnah2"> 3. Disunnahkan al-Muwaalat antara putaran Sa\'i yang satu dengan yang lain </string>
+    <string name="bukit_shafa"> 4. Harus melewati bukit Shafa dan Marwah</string>
+    <string name="tujuh_putaran"> 5. Sa\'i harus tujuh putaran</string>
+    <string name="setelah_thawaf">6. Harus dikerjakan setelah Thawaf</string>
+    <string name="Cara">cara</string>
+    <string name="al_baqarah_158">Al- Baqarah:158</string>
+    <string name="gundul">Gundul</string>
+    <string name="afdhol">Lebih afdhol daripada mencukur pendek</string>
+    <string name="al_fath_27">Al-Fath:27</string>
+    <string name="h_r_al_bukhori_no_1727">H.R Al-Bukhori no 1727</string>
+    <string name="h_r_muslim_no_1301">H.R Muslim no 1301</string>
+</resources>
